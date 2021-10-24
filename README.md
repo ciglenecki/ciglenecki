@@ -13,9 +13,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 <br></br>
-
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,18 +23,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Memgraph](https://img.shields.io/badge/Memgraph-white?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white)
-
 <br></br>
-
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-
 <br></br>
-
-
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
