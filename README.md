@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hello!
 - 🔭 I’m currently working on expanding my Computer and Data science knowledge
 - 🌱 I’m currently learning statistical data analysis and algorithms 
 - 🤔 I’m looking for help on how to narrow down my interests
