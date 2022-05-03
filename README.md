@@ -1,7 +1,7 @@
 ### Hello!
-- 🔭 I’m expanding my computer science, data science and machine learning knowledge
+- 🔭 I’m expanding my computer science, data science, and machine learning knowledge
 - 🌱 I'm highly intereseted in deep learning and computer vision 
-- 🤩 I'm fascinated by well written libraries, software modularity, and design principals
+- 🤩 I'm fascinated by well written libraries, software modularity, and design principles
 - 💬 Ask me about my projects and dotfiles
 - 📫 How to reach me: $FIRSTNAME dot $LASTNAME at gmail com
 - 👨‍⚖️ I care about leadership, communication, personal development, health, empathy, and privacy
