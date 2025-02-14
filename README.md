@@ -1,13 +1,11 @@
 ### Hello!
 
-I'm a machine learning engineer who loves computer vision and embraces nuances of software engineering and implementation details.
+ML engineer who loves computer vision and embraces nuances of software engineering and implementation details.
 
 - 🌱 I’m currently expanding my deep learning, machine learning and mathematics knowledge.
 - 🤩 I'm fascinated by well written libraries, software modularity, and design principles.
-- 💬 Ask me about my projects and dotfiles.
 - 📫 How to reach me: $FIRSTNAME dot $LASTNAME at gmail com
 - 👨‍⚖️ I care about leadership, communication, personal development, health, empathy, and privacy.
-- 🎓 I earned both my Bachelor's (CS) and Master's degrees (DS) at FER, University of Zagreb
 - ⚡ Fun fact: I'm the opposite of my profile picture 😁
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
