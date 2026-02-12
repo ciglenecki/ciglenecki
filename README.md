@@ -1,1 +1,3 @@
-ML engineer who loves computer vision and embraces nuances of software engineering and implementation details. I'm fascinated by well written libraries, software modularity, and design principles. I care about leadership, communication, health and empathy.
+ML research engineer who loves deep learning, computer vision and embraces nuances of software engineering and implementation details. Fascinated by design principles, great writing and machine learning libraries. I value leadership, honest communication, health, and empathy.
+
+I'm the opposite of my profile picture! :)
